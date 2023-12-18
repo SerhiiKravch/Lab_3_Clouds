@@ -1,0 +1,121 @@
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.exe
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.deps.json
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.runtimeconfig.json
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.pdb
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Table.Client.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Table.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.OData.Core.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.OData.Edm.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Spatial.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\System.ServiceModel.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.csproj.AssemblyReference.cache
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.AssemblyInfoInputs.cache
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.AssemblyInfo.cs
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.csproj.CoreCompileInputs.cache
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.csproj.CopyComplete
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\refint\Laba2CloudTechnologies.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.pdb
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.genruntimeconfig.cache
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\ref\Laba2CloudTechnologies.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.Form1.resources
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.csproj.GenerateResource.cache
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Storage.Blobs.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Storage.Common.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Storage.Files.Shares.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Storage.Queues.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Azure.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\System.IO.Hashing.dll
+C:\Users\ro910.BOZHOVSKIY\Downloads\Університет\Хмарні технологіії\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\System.Memory.Data.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.exe
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.deps.json
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.runtimeconfig.json
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Laba2CloudTechnologies.pdb
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Core.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Identity.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Storage.Blobs.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Storage.Common.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Storage.Files.Shares.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Azure.Storage.Queues.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Client.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Core.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Direct.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Table.Client.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Azure.Cosmos.Table.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Azure.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.OData.Core.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.OData.Edm.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.Spatial.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\System.IO.Hashing.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\System.Memory.Data.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\System.ServiceModel.Primitives.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\System.ServiceModel.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\Microsoft.WindowsAzure.Storage.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.Form1.resources
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.AssemblyInfo.cs
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.sourcelink.json
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.csproj.CopyComplete
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\refint\Laba2CloudTechnologies.dll
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.pdb
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\Laba2CloudTechnologies.genruntimeconfig.cache
+\\Mac\Home\Downloads\Study\cloud\CloudTechLab3\Laba2CloudTechnologies\obj\Debug\net7.0-windows\ref\Laba2CloudTechnologies.dll
